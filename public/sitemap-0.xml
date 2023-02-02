@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://example.com</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/about</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/blog/blogs</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/capabilities</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/career</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/contact</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/CompTia</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/CompTia1</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/DataScience</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/PowerBI</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/Scrum</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/WebThree</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/aiAndMl</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/azure</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/blockchain</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/compiSecurity</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/meta</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/education/python</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/life</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/project</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/solutions/itservices</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/solutions/knowledge</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://example.com/solutions/talent</loc><lastmod>2022-12-21T10:20:22.930Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
